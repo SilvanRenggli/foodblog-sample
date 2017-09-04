@@ -1,0 +1,1 @@
+A sample homepage to increase my HTML, CSS and Javascript skills.
